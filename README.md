@@ -10,5 +10,5 @@ Hi, I'm Vedika 👋  <br>I'm a Computer Engineering student passionate about Pyt
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VedikaDherange&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Fun 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+## 🏆 GitHub Snake Gif
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
